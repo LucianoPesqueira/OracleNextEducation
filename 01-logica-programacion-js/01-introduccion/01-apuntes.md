@@ -6,7 +6,7 @@ La capacidad de organizar y estructurar ideas para resolver problemas a través 
 ## 🧠 ¿Qué es un algoritmo?
 Un **algoritmo** es una secuencia logica de pasos para alcanzar un objetivo.
 
-![imagen de etapas de la logica de programación](img/etapas.png)
+![imagen de etapas de la logica de programación](../img/etapas.png)
 
 ### ¿Pero pra qué sirve esto?
 La *lógica* es la **base del razonamiento computacional**.Te enseña a pensar de manera clara, objetiva y estructurada, lo que te ayudará no solo a programar, sino tambien a resolver problemas.
